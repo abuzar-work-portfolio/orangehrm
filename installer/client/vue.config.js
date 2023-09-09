@@ -29,4 +29,5 @@ module.exports = defineConfig({
   publicPath: '.',
   filenameHashing: false,
   runtimeCompiler: true,
+  lintOnSave: false,
 });
